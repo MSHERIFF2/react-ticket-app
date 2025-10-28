@@ -1,4 +1,8 @@
-React Version: TicketAppA Multi-Framework Ticket Management Web Application (React Implementation)This is the React implementation of the HNG Frontend Stage 2 Task: Multi-Framework Ticket Web App.It delivers a complete, responsive, and accessible ticket management experience—including authentication, dashboard analytics, and full CRUD operations—all powered by React.js, React Router, and Tailwind CSS.🌐 Live Preview(Add your deployment link here once hosted—e.g., Netlify, Vercel, or GitHub Pages.)⚙️ Tech StackCategoryTechnologyPurposeFrameworkReact (with Vite)Component-based UI developmentRoutingReact Router DOMClient-side navigation & route protectionStylingTailwind CSSUtility-first CSS frameworkState/DatauseState / useEffectComponent state and lifecycle managementData SimulationlocalStorageData persistence (key: ticketapp_user, ticketapp_tickets)Notificationsreact-hot-toastAccessible, non-blocking toast notifications📂 Folder Structurereact-ticket-app/
+React Version: TicketAppA Multi-Framework Ticket Management Web Application (React Implementation)This is the React implementation of the HNG Frontend Stage 2 Task: Multi-Framework Ticket Web App.It delivers a complete, responsive, and accessible ticket management experience—including authentication, dashboard analytics, and full CRUD operations—all powered by React.js, React Router, and Tailwind CSS.
+
+🌐 Live Preview: https://tickets-app-react-v.netlify.app/
+
+Tech StackCategoryTechnologyPurposeFrameworkReact (with Vite)Component-based UI developmentRoutingReact Router DOMClient-side navigation & route protectionStylingTailwind CSSUtility-first CSS frameworkState/DatauseState / useEffectComponent state and lifecycle managementData SimulationlocalStorageData persistence (key: ticketapp_user, ticketapp_tickets)Notificationsreact-hot-toastAccessible, non-blocking toast notifications📂 Folder Structurereact-ticket-app/
 │
 ├── src/
 │   ├── components/
